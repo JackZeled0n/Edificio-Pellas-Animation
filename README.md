@@ -1,6 +1,7 @@
 # Edificio-Pellas-Animation
-Pequeña animación del edificio Pellas. Geometría Computacional.
+Animación del edificio Pellas. Geometría Computacional.
 
+Lenguaje C
 
 Archivo Principal
 <ul>
@@ -13,3 +14,4 @@ Librerias
 <li>INICIO.h</li>
 <li>PELLAS.h</li>
 </ul>
+
